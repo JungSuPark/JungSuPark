@@ -1,4 +1,4 @@
-# JungSu Park
+# Jungsu Park
 
 Software Engineer (12+ years) — 5+ years in mobile. Founder & solo developer at **JSPVISION**.
 
